@@ -1,4 +1,4 @@
-# Artificial Intelligence Labs — GSoC 2026 🤖
+# Artificial Intelligence Labs — GSoC 2026 
 
 This repository contains my Artificial Intelligence lab programs developed as part of my college coursework and personal learning journey.
 
